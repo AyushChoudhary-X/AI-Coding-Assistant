@@ -1,4 +1,4 @@
-# AlgoZenith Chat Bot Chrome Extension
+# AI Powered Coding Assistant Chrome extension for maang.in(Algozenith)
 
 The AlgoZenith Chat Bot Chrome Extension revolutionizes how you interact with AI for problem-solving. Built with a seamless interface and powerful features, this extension ensures that your coding journey is smooth, efficient, and enjoyable. Whether you're tackling complex problems or seeking hints and solutions, AlgoZenith Chat Bot is here to assist you every step of the way.
 
@@ -8,8 +8,6 @@ The AlgoZenith Chat Bot Chrome Extension revolutionizes how you interact with AI
 You can download the ![Project Demo](https://youtu.be/-TLhM4JsE8k) video to view. As the file is of 30 mb. Github cannot load it.
 Note: **Video lacks in between. Sorry for the inconvenience happened**
 
-**Sorry forgot to mention in the video that it is supportable in both dark and light mode of AlgoZenith site and it is tailored to give 
-response of the particular problem response**
 
 ---
 
@@ -18,6 +16,7 @@ response of the particular problem response**
 ### 🌟 Seamless Integration
 - **AlgoZenith Site-like UI**: Enjoy a visually consistent experience with the AlgoZenith site( UI supportable for both dark and light theme of the site)
 - **Themed Chat Box**: Matches the design of the AlgoZenith site for a unified user experience.
+- **Preferred Theme**: Supports both dark and light theme of Algozenith site
 
 ### 🔑 Personalization
 - **Custom API Key Support**: Integrate your own API key to tailor the chatbot's behavior and enhance privacy.
