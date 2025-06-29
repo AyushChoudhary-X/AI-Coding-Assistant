@@ -5,8 +5,7 @@ The AlgoZenith Chat Bot Chrome Extension revolutionizes how you interact with AI
 ---
 
 ## Demo Video
-You can download the ![Project Demo](https://youtu.be/-TLhM4JsE8k) video to view. As the file is of 30 mb. Github cannot load it.
-Note: **Video lacks in between. Sorry for the inconvenience happened**
+You can view the demo of the project here : https://drive.google.com/drive/u/1/folders/1oLK1fLOCxX2jTEN1BYx0g2piwb7qyJYx
 
 
 ---
